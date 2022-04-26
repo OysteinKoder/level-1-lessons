@@ -1,0 +1,27 @@
+head = der den gjemte "meta" infoen er, også brukt til
+søkemotor optimalisering. kan bli brukt for å knytte opp css mot html. 
+
+Title = det som står i tabben Body = alt som er synlig for brukeren 
+
+body = alt du kan se på nettsiden
+
+Header = toppen av
+nettsiden 
+
+nav = navigasjon 
+
+main = hovedinnholdet til siden h(1/2/3/4/5/6) = headline
+
+section = "boks" inndeler av tematisk innhold. 
+
+article = her er det en "boks" med text som hører sammen
+
+p = paragraf 
+
+
+
+
+
+
+
+
