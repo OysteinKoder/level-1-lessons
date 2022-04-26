@@ -10,3 +10,9 @@ p {
   background-color: salmon;
   color: white;
 }
+
+.flexBoxExample {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: aqua;
+}
